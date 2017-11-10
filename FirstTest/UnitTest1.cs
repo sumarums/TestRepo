@@ -7,6 +7,7 @@ namespace FirstTest
     public class UnitTest1
     {
         [TestMethod]
+        [TestCategory("Jaffa")]
         public void TestMethod1()
         {
             Console.WriteLine("Hello");
